@@ -525,7 +525,7 @@ nav .fa-solid {
   border: 1px solid #ffeb00;
   border-radius: 10px;
   /* float: left; */
-  margin-left: 180px;
+  margin-left: 84px;
   /* gap: 15px; */
 }
 @media (max-width: 768px) {
@@ -621,7 +621,7 @@ nav .fa-solid {
   border: 1px solid #2721df;
   border-radius: 10px;
   /* float: left; */
-  /* margin-left: 100px; */
+  margin-left: -9px;
   /* margin-right: 775px;  */
 }
 
@@ -695,7 +695,7 @@ nav .fa-solid {
   border-radius: 10px;
   /* float: left; */
   /* margin-left: 100px; */
-  /* margin-right: 775px; */
+  margin-right: 100px;
 }
 @media (max-width: 768px) {
   .images .b3 {
@@ -789,7 +789,7 @@ nav .fa-solid {
   border-radius: 10px;
   opacity: 1;
   margin-top: -308px;
-  margin-left: 169px;
+  margin-left: 76px;
   margin-bottom: 100px;
 
   /* float: left; */
@@ -1460,19 +1460,20 @@ box-shadow: -11px -45px 57px -37px rgba(255,5,243,0.32);
 
 .index-img1 {
   /* margin-top: 20%; */
-  margin-left: 8%;
-  margin-top: -248px;
+  margin-left: -9%;
+  margin-top: -239px;
 }
 .index-img2 {
   margin-top: -16%;
   /* margin-top: 0px; */
-  margin-left: 15%;
+  margin-left: -2%;
 }
 .index-img3 {
   /* margin-top: 20%; */
   float: right;
   margin-top: -734px;
   margin-right: 8px;
+  display: none;
 }
 .index-body2 h3 {
   font-size: 50px;
